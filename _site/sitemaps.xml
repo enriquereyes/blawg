@@ -10,6 +10,8 @@
         
           <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
         
+          <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
+        
         <lastmod>2016-02-29T02:48:44-06:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
@@ -23,6 +25,24 @@
           <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
         
           <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
+        
+        <lastmod>2016-02-29T02:48:44-06:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/jekyll/update/2016/02/29/bienvenido.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
         
         <lastmod>2016-02-29T02:48:44-06:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,6 +68,8 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
+          <xhtml:link rel="alternate" hreflang="es" href="/acerca-de.html" />
+        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -61,6 +83,8 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
+          <xhtml:link rel="alternate" hreflang="es" href="/acerca-de.html" />
+        
         <changefreq>weekly</changefreq>
       </url>
     
@@ -73,6 +97,23 @@
           <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/inicio.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/acerca-de.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/acerca-de.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -98,12 +139,38 @@
   
     
       <url>
+        <loc>/fuente.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
         <loc>/</loc>
         
         
           <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/inicio.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/inicio.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/inicio.html" />
         
         <changefreq>weekly</changefreq>
       </url>
