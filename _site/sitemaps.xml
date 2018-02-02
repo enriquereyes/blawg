@@ -3,16 +3,6 @@
   
     
       <url>
-        <loc>/jekyll/update/2018/01/31/welcome-to-jekyll.html</loc>
-        
-        
-        <lastmod>2018-01-31T02:55:56-06:00</lastmod>
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/jekyll/update/2016/02/29/welcome-to-jekyll.html</loc>
         
         
@@ -121,15 +111,6 @@
   
     
       <url>
-        <loc>/</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/css/main.css</loc>
         
         
@@ -140,15 +121,6 @@
     
       <url>
         <loc>/sitemaps.xml</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/assets/main.css</loc>
         
         
         <changefreq>weekly</changefreq>
