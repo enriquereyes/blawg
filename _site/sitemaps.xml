@@ -8,24 +8,6 @@
         
           <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
-        
-          <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
-        
-        <lastmod>2016-02-29T02:48:44-06:00</lastmod>
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
-        
           <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
         
         <lastmod>2016-02-29T02:48:44-06:00</lastmod>
@@ -39,8 +21,6 @@
         
         
           <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
         
           <xhtml:link rel="alternate" hreflang="es" href="/jekyll/update/2016/02/29/bienvenido.html" />
         
@@ -61,44 +41,12 @@
   
     
       <url>
-        <loc>/a-propos.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
-        
-          <xhtml:link rel="alternate" hreflang="es" href="/acerca-de.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/about/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
           <xhtml:link rel="alternate" hreflang="es" href="/acerca-de.html" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/accueil.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
-        
-          <xhtml:link rel="alternate" hreflang="es" href="/inicio.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -108,8 +56,6 @@
       <url>
         <loc>/acerca-de.html</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
@@ -130,15 +76,6 @@
   
     
       <url>
-        <loc>/flux.xml</loc>
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
         <loc>/fuente.xml</loc>
         
         
@@ -150,8 +87,6 @@
       <url>
         <loc>/</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
@@ -165,8 +100,6 @@
       <url>
         <loc>/inicio.html</loc>
         
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         

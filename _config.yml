@@ -9,20 +9,16 @@
 title:
   es: Blog de Enrique Reyes
   en: Enrique Reyes' blog
-  fr: Votre titre génial
 email: your-email@domain.com
 description:
   es: Blog 
   en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
 index:
   es: inicio.html
   en: index.html
-  fr: accueil.html
 feed:
   es: /fuente.xml
   en: /feed.xml
-  fr: /flux.xml
 baseurl: "/blawg" # the subpath of your site, e.g. /blog
 url: "https://enriquereyes.github.io" # the base hostname & protocol for your site
 twitter_username: enriquereyes
